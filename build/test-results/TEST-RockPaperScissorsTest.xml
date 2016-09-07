@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="RockPaperScissorsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-09-07T18:57:38" hostname="epicodus-8.local" time="0.002">
+<testsuite name="RockPaperScissorsTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2016-09-07T21:26:54" hostname="epicodus-8.local" time="0.001">
   <properties/>
-  <testcase name="pickWinner_PaperBeatsRock_Player1" classname="RockPaperScissorsTest" time="0.001"/>
-  <testcase name="pickWinner_RockTiesRock" classname="RockPaperScissorsTest" time="0.0"/>
-  <testcase name="pickWinner_RockBeatsScissors_1" classname="RockPaperScissorsTest" time="0.0"/>
+  <testcase name="pickWinner_RockBeatsSissor_PlayerOne" classname="RockPaperScissorsTest" time="0.0"/>
+  <testcase name="pickWinner_ScissorBeatsPaper_PlayerOne" classname="RockPaperScissorsTest" time="0.0"/>
+  <testcase name="pickWinner_ScissorBeatsPaper_PlayerTwo" classname="RockPaperScissorsTest" time="0.0"/>
+  <testcase name="pickWinner_RockBeatsScissor_PlayerTwo" classname="RockPaperScissorsTest" time="0.0"/>
+  <testcase name="pickWinner_RockTiesRock_Tie" classname="RockPaperScissorsTest" time="0.0"/>
+  <testcase name="pickWinner_PaperBeatsRock_PlayerTwo" classname="RockPaperScissorsTest" time="0.0"/>
+  <testcase name="pickWinner_PaperTiesPaper_Tie" classname="RockPaperScissorsTest" time="0.0"/>
+  <testcase name="pickWinner_ScissorTiesScissor_Tie" classname="RockPaperScissorsTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
